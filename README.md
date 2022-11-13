@@ -10,6 +10,8 @@ To use this repository, it is required that you already have the following prepa
 2. Ubuntu <version no.> LTS via Microsoft Store
 	
 3. Windows Terminal (optional) - https://learn.microsoft.com/en-us/windows/terminal/install
+
+4. Docker Installation - https://fiware-openmtc.readthedocs.io/en/latest/various/index.html
 # Credits
 
 http://www.openmtc.org/
