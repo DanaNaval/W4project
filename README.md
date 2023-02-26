@@ -1,5 +1,5 @@
 # W4project
-This is the official repository for W4 - Team G's undergraduate project for the course EEE196 in the first semester of academic year 2022-2023 in University of the Philippines Diliman.
+This is the official repository for W4 - Team G's undergraduate project for the courses EEE196 and CoE199 in the first semester of academic year 2022-2023 in University of the Philippines Diliman.
 # Initialization
 This guide assumes that your device is running on Windows operating system, specifically Windows 10 version 2004 or higher (Build 19041 and higher), or Windows 11.
 
